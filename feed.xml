@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <title>Only for the Week</title>
+    <link>https://archive.org/details/only-for-the-week</link>
+    <description>A personal podcast with music I enjoy.</description>
+    <language>en-us</language>
+    <itunes:author>Mya</itunes:author>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:category text="Music"/>
+
+    <item>
+      <title>Only for the Week</title>
+      <description>Music drop: Only for the Week</description>
+      <pubDate>Tue, 21 May 2024 12:00:00 GMT</pubDate>
+      <enclosure url="https://archive.org/download/only-for-the-week/Only%20for%20the%20Week.mp3" length="12345678" type="audio/mpeg"/>
+      <guid isPermaLink="false">only-for-the-week-ep1</guid>
+    </item>
+  </channel>
+</rss>
